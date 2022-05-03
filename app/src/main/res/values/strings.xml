@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Marketplace</string>
+    <string name="first_slide">text2</string>
+    <string name="second_slide">text3</string>
+    <string name="third_slide">text4</string>
+    <string name="description">dasdasdas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
